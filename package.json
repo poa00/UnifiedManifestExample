@@ -39,7 +39,7 @@
     "copy-webpack-plugin": "^5.1.1",
     "eslint-config-office-addins": "^1.0.14",
     "find-process": "^1.4.3",
-    "file-loader": "^4.2.0",
+    "file-loader": "^6.2.0",
     "html-loader": "^0.5.5",
     "html-webpack-plugin": "^4.0.4",
     "office-addin-cli": "^1.0.9",
@@ -51,8 +51,8 @@
     "source-map-loader": "^0.2.4",
     "ts-loader": "^6.2.2",
     "typescript": "^3.8.3",
-    "webpack": "^4.42.1",
-    "webpack-cli": "^3.3.11",
+    "webpack": "^5.92.0",
+    "webpack-cli": "^5.1.4",
     "webpack-dev-server": "^4.11.1"
   },
   "prettier": "office-addin-prettier-config"
